@@ -5,7 +5,7 @@
 #     𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧        #
 #=============================================#
 # 
-#    * @project_name : Suhail-Md
+#    * @project_name : Emmy-Md
 #    * @author : @EmmyTechInfo
 #    * @youtube : https://www.youtube.com/
 #    * @description : Emmyhenz ,A Multi-functional whatsapp bot md.
