@@ -6,9 +6,9 @@
 #=============================================#
 # 
 #    * @project_name : Suhail-Md
-#    * @author : @SuhailTechInfo
-#    * @youtube : https://www.youtube.com/SuhailTechInfo
-#    * @description : Suhail-Md ,A Multi-functional whatsapp bot md.
+#    * @author : @EmmyTechInfo
+#    * @youtube : https://www.youtube.com/
+#    * @description : Emmyhenz ,A Multi-functional whatsapp bot md.
 #    * @version 1.3.9
 
 
